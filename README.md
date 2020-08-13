@@ -2,6 +2,7 @@
 Simple Conways Game of Life Programm I made just for fun.
 I made this in one Day because I felt like doing it so please dont hate me for bad Code.
 
+VisualStudio Projekt.
 Made in c++ with [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
 __Controls:__
