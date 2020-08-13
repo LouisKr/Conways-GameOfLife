@@ -2,12 +2,12 @@
 Simple Conways Game of Life Programm I made just for fun.
 I made this in one Day because I felt like doing it so please dont hate me for bad Code.
 
-Works in Windows and Linux(probably)
+Works in Windows and Linux(_probably_)
 
 VisualStudio Projekt.
 Made in c++ with [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
-__Controls:__
+## Controls:
 * "Space" for Pause and Play </br>
 * "Left Mouse" to draw. </br>
 * "Right Mouse" to erase. </br>
