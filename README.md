@@ -14,4 +14,4 @@ __Controls:__
 * "Numpad Add" to SpeedUp </br>
 * "Numpad Sub" tp SpeedDown </br>
 
-__Multithreading going on! :sunglasses:__
+__Got some Multithreading going on! :sunglasses:__
