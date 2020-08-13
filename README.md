@@ -2,6 +2,8 @@
 Simple Conways Game of Life Programm I made just for fun.
 I made this in one Day because I felt like doing it so please dont hate me for bad Code.
 
+Made in c++ with [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+
 __Controls:__
 * "Space" for Pause and Play </br>
 * "Left Mouse" to draw. </br>
@@ -12,4 +14,4 @@ __Controls:__
 * "Numpad Add" to SpeedUp </br>
 * "Numpad Sub" tp SpeedDown </br>
 
-__With Multithreading going on! :sunglasses:__
+__Multithreading going on! :sunglasses:__
