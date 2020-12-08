@@ -16,5 +16,3 @@ Made in c++ with [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGa
 * "R" for new Random Cells </br>
 * "Numpad Add" to SpeedUp </br>
 * "Numpad Sub" tp SpeedDown </br>
-
-__Got some Multithreading going on! :sunglasses:__
